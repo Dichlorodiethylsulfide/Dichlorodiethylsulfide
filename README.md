@@ -1,6 +1,6 @@
 Hi, I'm Riki Lowe (@Dichlorodiethylsulfide)
 
-I'm interested in numerous scientific topics, ranging from programming to etymology to chemistry.
+I'm interested in numerous scientific topics, ranging from programming to entomology to chemistry.
 
 Though this profile is for my main interest, programming, and how to reach me.
 
@@ -29,6 +29,6 @@ I'd be happy to collaborate on projects, making commits, suggesting new ideas, a
 and welcome situations that allow me to contribute. I'd love constructive criticism of my work too, so we can all grow together.
 
 You can reach me: 
-  via email   = rikilowe500@btinternet.com
-  on Itch.io  = https://dichlorodiethylsulfide.itch.io/
-  on LinkedIn = https://www.linkedin.com/in/r-l-1a0289200/
+  via email   = rikilowe500@btinternet.com \n
+  on Itch.io  = https://dichlorodiethylsulfide.itch.io/ \n
+  on LinkedIn = https://www.linkedin.com/in/r-l-1a0289200/ \n
