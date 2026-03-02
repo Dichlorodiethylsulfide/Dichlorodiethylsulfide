@@ -5,6 +5,7 @@ I'm interested in numerous scientific topics, ranging from programming to entomo
 Though this profile is for my main interest, programming, and how to reach me.
 
 My current programming skills focus primarily on:
+- Java
 - C#
 - C/C++
 - Python
