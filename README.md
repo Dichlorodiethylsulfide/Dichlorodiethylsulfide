@@ -1,5 +1,7 @@
 Hi, I'm Riki Lowe (@Dichlorodiethylsulfide)
 
+Currently employed at Visa as a Software Engineer.
+
 I'm interested in numerous scientific topics, ranging from programming to entomology to chemistry.
 
 Though this profile is for my main interest, programming, and how to reach me.
